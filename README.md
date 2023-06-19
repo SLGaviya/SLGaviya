@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SLGaviya
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning at Royal College Colombo
-- 📫 How to reach me:You can go through my social media accounts
+- 📫 How to reach me: 
+- You can go through my social media accounts
 
 
 <!---
